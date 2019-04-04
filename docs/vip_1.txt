@@ -1,2 +1,6 @@
     <option value="http://v.d9y.net/vip/?url=" selected>不能播点我</option>
-    <option value="https://api.sigujx.com/?url=" >线路1</option>
+    <option value="https://api.sigujx.com/?url=" >切换线路1</option>
+    <option value="http://jx.du2.cc/?url=" >切换线路2</option>
+    <option value="http://api.51ckm.com/jx.php?url=" >切换线路3</option>
+    <option value="http://api.hlglwl.com/jx.php?url=" >切换线路4</option>
+    <option value="http://ckplay.online/?url=" >切换线路5</option>
